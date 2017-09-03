@@ -6,6 +6,12 @@ Grupo NoSQL
 
 ## Entenda o meetup
 
+
+test\
+
+Atualmente, utilizamos a plataforma do Meetup para controle das edições e listas de participantes. O fluxo do processo acontece da seguinte maneira:
+
+
 Atualmente, utilizamos a plataforma do Meetup para controle das edições e listas de participantes. O fluxo do processo acontece da seguinte maneira:
 
 ### Número de participantes
